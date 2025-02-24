@@ -1,4 +1,4 @@
-# Time-Off Requests
+# time-off-requests
 
 Please follow these steps to request time off via the issue system.
 
